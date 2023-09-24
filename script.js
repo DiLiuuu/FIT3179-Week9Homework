@@ -12,5 +12,5 @@ function embedVegaLite(specPath, map) {
 
 // Use the function
 document.addEventListener("DOMContentLoaded", function () {
-    embedVegaLite("Map.json", "map");
+    embedVegaLite("https://raw.githubusercontent.com/DiLiuuu/FIT3179-Week9Homework/main/map.json", "map");
 });
