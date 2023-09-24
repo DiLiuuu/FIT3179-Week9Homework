@@ -23,7 +23,7 @@
         },
         {
             "data": {
-                "url": "Global Missing Migrants Dataset.csv"
+                "url": "https://raw.githubusercontent.com/DiLiuuu/FIT3179-Week9Homework/main/Global%20Missing%20Migrants%20Dataset.csv"
             },
             "mark": {
                 "type": "circle",
